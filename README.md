@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>♪ Dailymotion Full Api</h1>
+  <h1>🎥 Dailymotion Full Api</h1>
 </div>
  
 # Features:
